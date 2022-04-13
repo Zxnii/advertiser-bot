@@ -39,6 +39,8 @@ async function advertise() {
 			await wait(5000);
 		}
 
+		bot.end();
+
 		setTimeout(advertise, 1000 * 60 * 60);
 	});
 }
