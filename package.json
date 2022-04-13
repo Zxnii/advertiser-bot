@@ -1,0 +1,16 @@
+{
+  "name": "advertiser-bot",
+  "version": "1.0.0",
+  "description": "Guild advertising :heart_eyes_cat:",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "zani",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mineflayer": "^4.2.0"
+  },
+  "private": true
+}
